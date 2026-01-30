@@ -1,0 +1,16 @@
+{
+    "name" : "com.github.Ryoncy-Git",
+    "displayName" : "Blendshape Copier",
+    "version" : "1.2",
+    "author": {
+      "name": "Ryoncy"
+    },
+    "unity" : "2022.3",
+    "description" : "description",
+    "vpmDependencies" : {
+      "com.vrchat.avatars" : "3.1.0"
+    },
+    "legacyFolders" : {
+      "Assets\\Editor": ""
+    }
+}
